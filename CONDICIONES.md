@@ -1,7 +1,7 @@
 # Condiciones de uso
 
 **Conquista el Infinito**
-Última actualización: 18/09/2026
+Última actualización: 18 de septiembre de 2026
 
 ---
 
@@ -11,9 +11,9 @@ Conquista el Infinito es un juego de andar. Se recorren territorios y
 se visitan sitios de interés: ermitas, castillos, miradores, cuevas,
 playas.
 
-Lo hace [TU NOMBRE], y ahora mismo está **en pruebas**. Eso significa
-que puede fallar, que los datos pueden no ser exactos y que las cosas
-pueden cambiar.
+Lo hace **Aarón Noriega Peña** (NIF 72154035E), y ahora mismo está **en
+pruebas**. Eso significa que puede fallar, que los datos pueden no ser
+exactos y que las cosas pueden cambiar.
 
 ---
 
@@ -42,6 +42,8 @@ decides por dónde vas.
 - No te hagas pasar por otra persona
 - Tu contraseña es cosa tuya: no la compartas
 - Una cuenta por persona
+- Hay que tener **14 años o más**. Con menos, hace falta permiso de un
+  padre, madre o tutor
 
 ---
 
@@ -103,4 +105,4 @@ Si cambiamos algo importante, te avisaremos dentro de la aplicación.
 
 ## Dudas
 
-aaronnoriegatattoo@gmail.com
+conquistaelinfinito.privacidad@gmail.com

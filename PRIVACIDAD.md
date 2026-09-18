@@ -1,17 +1,17 @@
 # Política de privacidad
 
 **Conquista el Infinito**
-Última actualización: 18/09/2026
+Última actualización: 18 de septiembre de 2026
 Versión: 1
 
 ---
 
 ## 1. Quién trata tus datos
 
-**Responsable del tratamiento:** AARON NORIEGA PEÑA
-**NIF / CIF:** 72154035E
-**Dirección:** c/ PADRE DAMIAN n33 4A
-**Correo de contacto:** aaronnoriegatattoo@gmail.com
+**Responsable del tratamiento:** Aarón Noriega Peña
+**NIF:** 72154035E
+**Dirección:** c/ Padre Damián nº 33, 4ºA, 39300 Torrelavega (Cantabria)
+**Correo de contacto:** conquistaelinfinito.privacidad@gmail.com
 
 Para cualquier cosa relacionada con tus datos, escribe a ese correo.
 
@@ -109,15 +109,16 @@ ninguna pantalla.
 
 | Quién | Para qué | Dónde |
 |---|---|---|
-| **Supabase** | Guardar cuentas y progreso | Servidores en la Unión Europea |
+| **SUPABASE PTE. LTD.** | Guardar cuentas y progreso | Servidores en la Unión Europea |
 
-Supabase actúa como encargado del tratamiento con contrato de encargo
+Con dirección en 65 Chulia Street #38-02/03, OCBC Centre, Singapur
+049513. Actúa como encargado del tratamiento con contrato de encargo
 conforme al artículo 28 del RGPD.
 
 **Transferencias fuera de la Unión Europea:** los datos se almacenan en
-la UE. Supabase Inc. tiene sede en Estados Unidos y podría acceder a
-ellos para soporte técnico, amparado en las Cláusulas Contractuales
-Tipo aprobadas por la Comisión Europea.
+la UE. Podría accederse a ellos desde fuera para soporte técnico,
+amparado en las Cláusulas Contractuales Tipo aprobadas por la Comisión
+Europea.
 
 ---
 
@@ -160,8 +161,9 @@ Puedes pedirnos en cualquier momento:
 - **Limitación** y **oposición** al tratamiento
 - **Retirar el consentimiento**, sin que afecte a lo hecho antes
 
-**Es gratis.** Escribe a aaronnoriegatattoo@gmail.com y respondemos en un mes como
-máximo, ampliable a tres si la petición es compleja.
+**Es gratis.** Escribe a conquistaelinfinito.privacidad@gmail.com y
+respondemos en un mes como máximo, ampliable a tres si la petición es
+compleja.
 
 **Y si crees que no lo hacemos bien**, puedes reclamar ante la Agencia
 Española de Protección de Datos, C/ Jorge Juan 6, 28001 Madrid,
